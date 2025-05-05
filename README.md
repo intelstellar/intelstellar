@@ -1,15 +1,34 @@
-<h2 align="left"></h2>
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is ... and I'm a ..., from ....</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+
+###
+
+<h2 align="left">Random things</h2>
 
 ###
 
 <div align="center">
   <img src="https://lanyard.kyrie25.dev/api/681790377329426442" height="150" alt="stats graph"  />
+  <img height="150" src="https://r2.e-z.host/e0431dc3-12da-4bbd-8491-f82d2b71ae13/5ywyezig.gif"  />
   <img src="https://osu-sig.vercel.app/card?user=Kokytos&mode=std&lang=en&animation=true&hue=200&skills=true" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://r2.e-z.host/e0431dc3-12da-4bbd-8491-f82d2b71ae13/5ywyezig.gif"  />
+<br clear="both">
+
+[![Data Card for Spotify](https://data-card-for-spotify.herokuapp.com/api/card?user_id=314shbu47xjher5utuoaut3k67ya)](https://data-card-for-spotify.herokuapp.com/api/card?user_id=314shbu47xjher5utuoaut3k67ya)
 
 ###
 
@@ -27,16 +46,6 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/intelstellar/intelstellar/output/snake.svg" alt="Snake animation" />
-
-###
-
-[![Data Card for Spotify](https://data-card-for-spotify.herokuapp.com/api/card?user_id=314shbu47xjher5utuoaut3k67ya)](https://data-card-for-spotify.herokuapp.com/api/card?user_id=314shbu47xjher5utuoaut3k67ya)
 
 <!--
 **intelstellar/intelstellar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
