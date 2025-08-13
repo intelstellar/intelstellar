@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">uhhhhhh</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is uhhhhhhhhhh and I'm a uhhhhhhh, from uhhhhhh</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since uhhhhhh<br>📚 I'm currently learning uhhhhhh<br>🎯 Goals: uhhhh<br>🎲 Fun fact: uhhhhh</p>
 
 ###
 
