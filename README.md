@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">/p>
+<p align="left"></p>
 
 ###
 
@@ -11,7 +11,7 @@
 ###
 
 
-[//]: # "<p align="left">✨ Creating bugs since uhhhhhh<br>📚 I'm currently learning uhhhhhh<br>🎯 Goals: uhhhh<br>🎲 Fun fact: uhhhhh</p>"
+<!---<p align="left">✨ Creating bugs since uhhhhhh<br>📚 I'm currently learning uhhhhhh<br>🎯 Goals: uhhhh<br>🎲 Fun fact: uhhhhh</p>-->
 
 ###
 
