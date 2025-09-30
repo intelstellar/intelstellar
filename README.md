@@ -1,16 +1,17 @@
-<h1 align="left">uhhhhhh</h1>
+<h1 align="left"></h1>
 
 ###
 
-<p align="left">My name is uhhhhhhhhhh and I'm a uhhhhhhh, from uhhhhhh</p>
+<p align="left">/p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left"></h2>
 
 ###
 
-<p align="left">✨ Creating bugs since uhhhhhh<br>📚 I'm currently learning uhhhhhh<br>🎯 Goals: uhhhh<br>🎲 Fun fact: uhhhhh</p>
+
+[//]: # "<p align="left">✨ Creating bugs since uhhhhhh<br>📚 I'm currently learning uhhhhhh<br>🎯 Goals: uhhhh<br>🎲 Fun fact: uhhhhh</p>"
 
 ###
 
