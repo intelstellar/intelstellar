@@ -14,7 +14,7 @@
       <a href="mailto:koishi@asakura.fi" >
         <img align="left" width="25" height="25" src="https://www.svgrepo.com/show/396510/fog.svg"/>
        <b>koishi@asakura.fi</b>
-      </a>    
+      </a><br/>
       <a href="https://zyo.lol/koishi">
         <img align="left" width="25" height="25" src="https://www.svgrepo.com/show/397584/night-with-stars.svg"/>
        <b>(ಠ_ಠ)ﾉ ‥…━━━★</b>
