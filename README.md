@@ -21,7 +21,7 @@
       </a>
     </div>
   </div>
-<br/>
+
 <div align="center">
   <img align="left" src="https://lanyard.kyrie25.dev/api/681790377329426442" height="160" alt="stats graph"  />
 <!--  <img height="150" src="https://r2.e-z.host/e0431dc3-12da-4bbd-8491-f82d2b71ae13/5ywyezig.gif"  />-->
