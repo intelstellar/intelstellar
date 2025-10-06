@@ -18,7 +18,7 @@
       <a href="https://zyo.lol/koishi">
         <img align="left" width="25" height="25" src="https://www.svgrepo.com/show/397584/night-with-stars.svg"/>
        <b>(ಠ_ಠ)ﾉ ‥…━━━★</b>
-      </a><br/>
+      </a><br/><br/>
     </div>
   </div>
 
