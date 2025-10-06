@@ -1,7 +1,7 @@
 <body>
   <div>
     <div>
-      <h6 align="right"> (Best viewed in landscape mode) / (readme idea from [@YuzuZensai](https://github.com/YuzuZensai))</h6>
+      <h6 align="right" href="https://github.com/YuzuZensai"> (Best viewed in landscape mode) / (readme idea from @YuzuZensai) </h6>
       <img align="left" width="356" height="500" src="https://r2.e-z.host/e0431dc3-12da-4bbd-8491-f82d2b71ae13/63m1lbq1.png"/>
       <h3>💝  wwwwww</h3>
       <p>⛩️  wwwwwwwwww ♡</p>
