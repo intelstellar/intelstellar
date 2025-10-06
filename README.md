@@ -14,14 +14,14 @@
       <a href="mailto:koishi@asakura.fi" >
         <img align="left" width="25" height="25" src="https://www.svgrepo.com/show/396510/fog.svg"/>
        <b>koishi@asakura.fi</b>
-      </a><br/>
+      </a><br/><br/>
       <a href="https://zyo.lol/koishi">
         <img align="left" width="25" height="25" src="https://www.svgrepo.com/show/397584/night-with-stars.svg"/>
        <b>(ಠ_ಠ)ﾉ ‥…━━━★</b>
-      </a><br/><br/>
+      </a>
     </div>
   </div>
-
+<br/>
 <div align="center">
   <img align="left" src="https://lanyard.kyrie25.dev/api/681790377329426442" height="160" alt="stats graph"  />
 <!--  <img height="150" src="https://r2.e-z.host/e0431dc3-12da-4bbd-8491-f82d2b71ae13/5ywyezig.gif"  />-->
