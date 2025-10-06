@@ -6,7 +6,7 @@
       <h3>◗   みんなさん こんにちわ! I'm Koishi ヾ(≧▽≦*)o</h3>
       <p>✨  just an ordinary student in Finland, <a href="https://osu.ppy.sh/users/18550322">a circle clicker</a>, a weeb and a fumo lover ᗜ_ᗜ</p>
       <p>⛩️ interested in discovering music/tech/anime/weeb things~!</p>
-      <p>🏙️ <a href="https://x.com/Kokocir/status/1974777088772321479" target="_blank">My pfp source!</a></p>
+      <p>🏙️ <a href="https://x.com/Kokocir/status/1974777088772321479" target="_blank">My pfp source</a></p>
     </div>
     <br/><br/>
     <div>
@@ -23,7 +23,7 @@
   </div>
 
 <div align="center">
-  <img align="left" src="https://lanyard.kyrie25.dev/api/681790377329426442?showBanner=animated&waveColor=transparent&bannerFilter=brightness(0.6)%20blur(2px)" height="150" alt="stats graph"  />
+  <img align="left" src="https://lanyard.kyrie25.dev/api/681790377329426442?showBanner=animated&waveColor=transparent&bannerFilter=brightness(0.8)%20blur(1px)" height="150" alt="stats graph"  />
 <!--  <img height="150" src="https://r2.e-z.host/e0431dc3-12da-4bbd-8491-f82d2b71ae13/5ywyezig.gif"  />-->
 <!--  <img src="https://osu-sig.vercel.app/card?user=Kokytos&mode=std&lang=en&animation=true&hue=200&skills=true" height="200" alt="languages graph"  />-->
 </div>
