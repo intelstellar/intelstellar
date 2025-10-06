@@ -58,7 +58,7 @@
   <div>
     <h2>🌌 Random things =='</h2>
     <!--[![Data Card for Spotify](https://data-card-for-spotify.herokuapp.com/api/card?user_id=314shbu47xjher5utuoaut3k67ya)](https://data-card-for-spotify.herokuapp.com/api/card?user_id=314shbu47xjher5utuoaut3k67ya)-->
-    <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=314shbu47xjher5utuoaut3k67ya">
+    <a align="center" href="https://data-card-for-spotify.herokuapp.com/card?user_id=314shbu47xjher5utuoaut3k67ya">
       <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=314shbu47xjher5utuoaut3k67ya" alt="Data Card for Spotify">
     </a>
   </div>
