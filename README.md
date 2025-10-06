@@ -15,6 +15,10 @@
         <img align="left" width="25" height="25" src="https://www.svgrepo.com/show/396510/fog.svg"/>
        <b>koishi@asakura.fi</b>
       </a>
+     <a href="https://zyo.lol/koishi" >
+        <img align="left" width="25" height="25" src="https://www.svgrepo.com/show/481273/cat-2.svg"/>
+       <b>(ಠ_ಠ)ﾉ ‥…━━━★</b>
+      </a>
     </div>
   </div>
 
