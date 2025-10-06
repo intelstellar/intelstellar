@@ -8,7 +8,7 @@
       <p>⛩️ interested in discovering music/tech/anime/weeb things~!</p>
       <p>🏙️ <a href="https://x.com/Kokocir/status/1974777088772321479" target="_blank">My pfp source</a></p>
     </div>
-    <br/><br/>
+    <br/>
     <div>
      <h3>💌 Contacts</h3>
       <a href="mailto:koishi@asakura.fi" >
@@ -17,7 +17,7 @@
       </a><br/><br/>
       <a href="https://e-z.bio/koishi">
         <img align="left" width="25" height="25" src="https://www.svgrepo.com/show/397584/night-with-stars.svg"/>
-       <b>(ಠ_ಠ)ﾉ ‥…━━━★</b>
+       <b>(ಠ_ಠ)ﾉ ‥…━━━★</b><br/><br/>
       </a>
     </div>
   </div>
