@@ -6,7 +6,7 @@
       <h3>💝  ◗ みんなさん こんにちわ! I'm Koishi ヾ(≧▽≦*)o</h3>
       <p>✨  international student in Finland // fumo lover ᗜ_ᗜ // weeb // circle clicker</p>
       <p>⛩️ interested in discovering music/tech/anime/weeb things</p>
-      <p><a href="https://x.com/Kokocir/status/1974777088772321479" target="_blank">🏙️ My pfp source</a></p>
+      <p>🏙️ <a href="https://x.com/Kokocir/status/1974777088772321479" target="_blank">My pfp source!</a></p>
     </div>
     <br/><br/>
     <div>
