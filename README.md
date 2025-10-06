@@ -1,18 +1,22 @@
-<h1 align="left"></h1>
-
-###
-
-<p align="left"></p>
-
-###
-
-<h2 align="left"></h2>
-
-###
-
-
-<!---<p align="left">✨ Creating bugs since uhhhhhh<br>📚 I'm currently learning uhhhhhh<br>🎯 Goals: uhhhh<br>🎲 Fun fact: uhhhhh</p>-->
-
+<body>
+  
+  <div>
+    <div>
+      <h6 align="right"> (Best viewed in landscape mode)</h6>
+      <img align="left" width="356" height="500" src="https://raw.githubusercontent.com/YuzuZensai/YuzuZensai/main/assets/images/Yuzu.png"/>
+      <h3>💝  wwwwww</h3>
+      <p>⛩️  wwwwwwwwww ♡</p>
+      <p>✨ wwwwwwwwwwwwww haaahhhaahahaha ,_,</p>
+    </div>
+    <br/><br/>
+    <div>
+     <h3>💌 Contacts</h3>
+      <a href="mailto:koishi@asakura.fi" >
+        <img align="left" width="25" height="25" src="https://raw.githubusercontent.com/YuzuZensai/YuzuZensai/main/assets/images/Kirameki-Clean.svg"/>
+       <b>koishi@asakura.fi</b>
+      </a>
+    </div>
+  </div>
 ###
 
 <h2 align="left">Random things</h2>
@@ -29,8 +33,8 @@
 
 <br clear="both">
 
-[![Data Card for Spotify](https://data-card-for-spotify.herokuapp.com/api/card?user_id=314shbu47xjher5utuoaut3k67ya)](https://data-card-for-spotify.herokuapp.com/api/card?user_id=314shbu47xjher5utuoaut3k67ya)
-<a href="https://x.com/Kokocir/status/1974777088772321479" target="_blank">pfp source</a>
+<!--[![Data Card for Spotify](https://data-card-for-spotify.herokuapp.com/api/card?user_id=314shbu47xjher5utuoaut3k67ya)](https://data-card-for-spotify.herokuapp.com/api/card?user_id=314shbu47xjher5utuoaut3k67ya)
+<a href="https://x.com/Kokocir/status/1974777088772321479" target="_blank">pfp source</a>-->
 ###
 
 <div align="left">
