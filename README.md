@@ -1,7 +1,7 @@
 <body>
   <div>
     <div>
-      <h6 align="right"> (Best viewed in landscape mode) / (readme idea from @YuzuZensai)</h6>
+      <h6 align="right"> (Best viewed in landscape mode) / (readme idea from [@YuzuZensai](https://github.com/YuzuZensai))</h6>
       <img align="left" width="356" height="500" src="https://r2.e-z.host/e0431dc3-12da-4bbd-8491-f82d2b71ae13/63m1lbq1.png"/>
       <h3>💝  wwwwww</h3>
       <p>⛩️  wwwwwwwwww ♡</p>
@@ -11,7 +11,7 @@
     <div>
      <h3>💌 Contacts</h3>
       <a href="mailto:koishi@asakura.fi" >
-        <img align="left" width="25" height="25" src="https://raw.githubusercontent.com/YuzuZensai/YuzuZensai/main/assets/images/Kirameki-Clean.svg"/>
+        <img align="left" width="25" height="25" src="https://www.svgrepo.com/show/396510/fog.svg"/>
        <b>koishi@asakura.fi</b>
       </a>
     </div>
