@@ -1,5 +1,4 @@
 <body>
-  
   <div>
     <div>
       <h6 align="right"> (Best viewed in landscape mode)</h6>
@@ -17,6 +16,11 @@
       </a>
     </div>
   </div>
+
+
+
+
+  
 ###
 
 <h2 align="left">Random things</h2>
