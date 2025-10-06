@@ -51,6 +51,12 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
+
+
+
+
+[![Data Card for Spotify](https://data-card-for-spotify.herokuapp.com/api/card?user_id=314shbu47xjher5utuoaut3k67ya)](https://data-card-for-spotify.herokuapp.com/api/card?user_id=314shbu47xjher5utuoaut3k67ya)
+<a href="https://x.com/Kokocir/status/1974777088772321479" target="_blank">pfp source</a>
 </body>
 
 <!--
