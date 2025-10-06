@@ -3,9 +3,10 @@
     <div>
       <h6 align="right"><a href="https://github.com/YuzuZensai"> (Best viewed in landscape mode) / (readme idea from @YuzuZensai) </a></h6>
       <img align="left" width="356" height="500" src="https://r2.e-z.host/e0431dc3-12da-4bbd-8491-f82d2b71ae13/63m1lbq1.png"/>
-      <h3>💝  wwwwww</h3>
-      <p>⛩️  wwwwwwwwww ♡</p>
-      <p>✨ wwwwwwwwwwwwww haaahhhaahahaha ,_,</p>
+      <h3>💝  ◗ みんなさん こんにちわ! I'm Koishi ヾ(≧▽≦*)o</h3>
+      <p>✨  international student in Finland // fumo lover ᗜ_ᗜ // weeb // circle clicker</p>
+      <p>⛩️ interested in discovering music/tech/anime/weeb things</p>
+      <p><a href="https://x.com/Kokocir/status/1974777088772321479" target="_blank">🏙️ My pfp source</a></p>
     </div>
     <br/><br/>
     <div>
