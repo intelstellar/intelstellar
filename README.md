@@ -19,16 +19,14 @@
   </div>
 
 <div align="center">
-  <img align="left" src="https://lanyard.kyrie25.dev/api/681790377329426442" height="175" alt="stats graph"  /> <br>
+  <img align="left" src="https://lanyard.kyrie25.dev/api/681790377329426442" height="175" alt="stats graph"  /> <br/>
 <!--  <img height="150" src="https://r2.e-z.host/e0431dc3-12da-4bbd-8491-f82d2b71ae13/5ywyezig.gif"  />-->
 <!--  <img src="https://osu-sig.vercel.app/card?user=Kokytos&mode=std&lang=en&animation=true&hue=200&skills=true" height="200" alt="languages graph"  />-->
-</div><br/><br/><br/><br/><br/><br/><br/>
-    <div>
-      <a href="https://zyo.lol/koishi" >
+  <a href="https://zyo.lol/koishi" >
         <img align="left" width="25" height="25" src="https://www.svgrepo.com/show/397584/night-with-stars.svg"/>
        <b>(ಠ_ಠ)ﾉ ‥…━━━★</b>
       </a>
-    </div>
+</div>
 
 ###
 
